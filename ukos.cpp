@@ -10,7 +10,9 @@ int main()
 	int zmiany=1;
 	cout << "super";
 	int nowy=2;
+	int i = 10;
 	i = nowy + zmiany;
+	cout << "jhfjdskjfh";
 	
 }
 
