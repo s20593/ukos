@@ -6,12 +6,12 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-	int i;
+	
 	int zmiany=1;
 	cout << "super";
 	int nowy=2;
 	i = nowy + zmiany;
-
+	
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
