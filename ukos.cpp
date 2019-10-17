@@ -7,9 +7,10 @@ int main()
 {
     cout << "Hello World!\n";
 	int i;
-	int zmiany;
+	int zmiany=1;
 	cout << "super";
-	int nowy;
+	int nowy=2;
+	i = nowy + zmiany;
 
 }
 
