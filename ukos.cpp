@@ -12,7 +12,9 @@ int main()
 	int nowy=2;
 	int i = 10;
 	i = nowy + zmiany;
+	int z = 4;
 	cout << "jhfjdskjfh";
+	z = i * z / 10;
 	
 }
 
