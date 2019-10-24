@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+	cout << "How are you, Word\n";
 	
 	int zmiany=1;
 	cout << "super";
