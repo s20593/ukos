@@ -25,7 +25,7 @@ int main()
 		break;
 	case 1:
 		cout << "jeden" << endl;
-		break;
+		break; //cool
 
 	}
 	
