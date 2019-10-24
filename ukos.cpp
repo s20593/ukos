@@ -16,6 +16,19 @@ int main()
 	int z = 4;
 	cout << "jhfjdskjfh";
 	z = i * z / 10;
+	cout << "Podaj 0 albo 1";
+	int zmienna;
+	cin >> zmienna;
+	switch (zmienna)
+	{
+	case 0:
+		cout << "zero"<<endl;
+		break;
+	case 1:
+		cout << "jeden" << endl;
+		break; //cool
+
+	}
 	
 }
 
