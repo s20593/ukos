@@ -13,9 +13,18 @@ int main()
 	int i = 10;
 	i = nowy + zmiany;
 	int z = 4;
-	cout << "jhfjdskjfh";
+	cout << "jhfjdskjfh" << endl;
 	z = i * z / 10;
 	
+	for(int i=0; i<4; i++){
+		if(i==0 || i==2){
+			cout << "Ladna-";
+		}
+		else{
+			cout << "Pentla ";	
+		}
+		
+	}
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
