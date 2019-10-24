@@ -7,6 +7,7 @@ int main()
 {
     cout << "Hello World!\n";
 	cout << "How are you, Word\n";
+	cout << "Fine\n";
 	
 	int zmiany=1;
 	cout << "super";
